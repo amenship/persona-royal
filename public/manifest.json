@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Scan AI",
+  "description": "Scan AI is a powerful AI detector and checker that identifies AI-generated content, AI paraphrasing, and bypassers. An effective alternative to Turnitin AI Detector, ensuring content authenticity. Try our advanced AI detection tool for free today!",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
